@@ -30,7 +30,7 @@ github_username:  fhanimkhudri
 
 # Build settings
 markdown: kramdown
-theme: clean-jekyll-theme
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
   - jekyll-admin
